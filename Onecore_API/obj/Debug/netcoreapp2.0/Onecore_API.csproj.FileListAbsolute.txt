@@ -1,0 +1,11 @@
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\bin\Debug\netcoreapp2.0\Onecore_API.deps.json
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\bin\Debug\netcoreapp2.0\Onecore_API.runtimeconfig.json
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\bin\Debug\netcoreapp2.0\Onecore_API.runtimeconfig.dev.json
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\bin\Debug\netcoreapp2.0\Onecore_API.dll
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\bin\Debug\netcoreapp2.0\Onecore_API.pdb
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.csproj.CoreCompileInputs.cache
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.AssemblyInfoInputs.cache
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.AssemblyInfo.cs
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.dll
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.pdb
+C:\Users\Fairon\source\repos\Onecore_API\Onecore_API\obj\Debug\netcoreapp2.0\Onecore_API.csprojAssemblyReference.cache
